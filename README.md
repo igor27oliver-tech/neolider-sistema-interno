@@ -36,3 +36,11 @@ O sistema possui diferentes permissões de acordo com o cargo:
 ---
 
 ## 📁 Estrutura do Projeto (Exemplo)
+/src
+/neolider
+/programainterno
+Estoque.java
+Requisicoes.java
+Usuario.java
+Login.java
+Main.java
