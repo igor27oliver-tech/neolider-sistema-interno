@@ -1,37 +1,41 @@
 # neolider-sistema-interno
-# 🏭 Sistema Interno de Consulta e Requisições de Estoque — Neolider
 
-Sistema interno desenvolvido para facilitar a consulta e o gerenciamento de requisições de estoque dentro da empresa Neolider.  
-O sistema possui uma hierarquia de permissões por cargo, garantindo segurança, controle e organização no fluxo de materiais.
+🏭 **Sistema Interno de Consulta e Requisições de Estoque — Neolider**
+
+Sistema interno desenvolvido para facilitar a consulta e o gerenciamento de requisições de estoque dentro da empresa **Neolider**.  
+Possui uma hierarquia de permissões por cargo, garantindo segurança, organização e controle no fluxo de materiais.
 
 ---
 
 ## 🚀 Funcionalidades Principais
 
-###  **Login com níveis de acesso**
-O sistema possui diferentes permissões de acordo com o cargo:
-- **CEO / Administrador**: pode visualizar e criar requisições para qualquer setor.
-- **Gestores**: podem criar requisições apenas do seu setor.
-- **Funcionários**: podem apenas consultar o estoque.
-- **Usuários limitados**: acesso somente a consultas específicas.
+### 🔐 Login com níveis de acesso
+O sistema possui diferentes permissões conforme o cargo do usuário:
+
+- **CEO / Administrador:** pode visualizar e criar requisições para qualquer setor.
+- **Gestores:** podem criar requisições somente do próprio setor.
+- **Funcionários:** podem apenas consultar o estoque.
+- **Usuários limitados:** acesso restrito a consultas específicas.
 
 ---
 
-##  Funcionalidades
-- Consulta completa de estoque
-- Cadastro de requisições por setor
-- Histórico de requisições
-- Controle de usuários por cargo
-- Interface simples e intuitiva em Java Swing
-- Estrutura modular para expansão futura
+## 📦 Outras Funcionalidades
+
+- Consulta completa de estoque  
+- Cadastro de requisições por setor  
+- Histórico de requisições realizadas  
+- Controle de usuários e permissões  
+- Interface simples e intuitiva desenvolvida em **Java Swing**  
+- Arquitetura modular, permitindo expansão futura  
 
 ---
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
+
 - **Java (JDK 17+)**
-- **Swing** para interface gráfica
-- **POO (Programação Orientada a Objetos)**
-- Banco de dados *(caso utilize futuramente — MySQL recomendado)*
+- **Swing** (interface gráfica)
+- **POO – Programação Orientada a Objetos**
+- *(Futuro)* Banco de dados — recomendado **MySQL**
 
 ---
 
